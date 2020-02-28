@@ -1,5 +1,5 @@
 # copy-file
-Copy file to remote
+Copy file to remote. Use raw tab.
 
 vim file.yml
 
